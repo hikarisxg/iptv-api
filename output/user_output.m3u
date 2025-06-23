@@ -1,12 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hikarisxg/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="🕘️更新时间",2025-06-23 18:21:14
-http://139.196.151.191:2051/rtp/239.45.3.61:5140
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
-http://139.196.151.191:2051/rtp/239.45.3.61:5140
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
-http://nas.hssvm.com:8888/udp/225.1.1.86:5002
-#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海外语.png" group-title="☘️上海频道",上海外语
-http://139.196.151.191/rtp/239.45.1.127:5140
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七彩戏剧.png" group-title="🕘️更新时间",2025-06-24 06:19:02
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上海第一财经.png" group-title="☘️上海频道",上海第一财经
 https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="☘️上海频道",东方财经
@@ -46,9 +40,11 @@ https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
-http://omnix.cn:4000/udp/225.1.8.89:8000
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
 http://119.32.12.17:2901/udp/224.1.100.82:11111
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="🏀体育频道",CCTV-5
+http://omnix.cn:4000/udp/225.1.8.89:8000
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="🏀体育频道",CCTV-5+
+http://124.220.159.96:35455/mgtv/641886773.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
@@ -60,11 +56,9 @@ https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
 https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🏀体育频道",纬来体育
-https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
 http://119.32.12.17:2901/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="🏀体育频道",劲爆体育
@@ -92,9 +86,9 @@ rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🏀体育频道",超级体育
 http://111.43.126.240:9003/hls/86/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
-https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
 https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
+https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🏀体育频道",精品体育
 https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="🏀体育频道",山东体育
@@ -136,11 +130,13 @@ http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="🪁动画频道",黑莓动画
 http://111.43.126.240:9003/hls/100/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
 #EXTINF:-1 tvg-name="火影忍者" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/火影忍者.png" group-title="🪁动画频道",火影忍者
 https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 #EXTINF:-1 tvg-name="海绵宝宝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="🪁动画频道",海绵宝宝
@@ -151,8 +147,6 @@ https://live.iill.top/huya/11342413
 https://live.iill.top/huya/11352879
 #EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
 https://www.goodiptv.club/yy/22777075
-#EXTINF:-1 tvg-name="经典动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典动漫.png" group-title="🪁动画频道",经典动漫
-https://lunbo.freetv.top/yy/24180320
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蜡笔小新.png" group-title="🪁动画频道",蜡笔小新
 http://www.douzhicloud.site:35455/bilibili/30837590
 #EXTINF:-1 tvg-name="漫画解说" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="🪁动画频道",漫画解说
@@ -162,9 +156,9 @@ https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a79
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
-http://119.32.12.17:2901/udp/224.1.100.42:11111
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://171.15.18.199:8180/TV00000000000000000015@HHZT
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
+http://119.32.12.17:2901/udp/224.1.100.42:11111
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
 http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
